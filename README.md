@@ -1,4 +1,4 @@
-// <Your S3844510, <Your Devon Katsuk>
+// S3844510, Devon Katsuk
 // Y Login for at least 3 users
 // Y Read the events from events.dat and display
 // Y Events can be booked and bookings can be modified
