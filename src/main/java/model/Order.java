@@ -1,4 +1,4 @@
-package org.example.assignment;
+package model;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

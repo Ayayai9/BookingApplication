@@ -1,5 +1,8 @@
-package org.example.assignment;
+package controller;
 
+import databse.EventJDBC;
+import databse.OrderJDBC;
+import databse.UserJDBC;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
@@ -7,6 +10,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+import util.PasswordUtils;
 
 public class LoginApp extends Application {
 

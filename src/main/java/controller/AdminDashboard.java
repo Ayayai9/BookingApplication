@@ -1,4 +1,4 @@
-package org.example.assignment;
+package controller;
 
 import javafx.application.Application;
 import javafx.beans.property.ReadOnlyStringWrapper;
@@ -9,6 +9,9 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+import model.Event;
+import databse.EventJDBC;
+import databse.OrderJDBC;
 
 import java.util.*;
 

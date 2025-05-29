@@ -1,4 +1,7 @@
-package org.example.assignment;
+package util;
+
+import databse.EventJDBC;
+import model.Event;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

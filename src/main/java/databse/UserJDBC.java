@@ -1,4 +1,4 @@
-package org.example.assignment;
+package databse;
 
 import java.sql.*;
 

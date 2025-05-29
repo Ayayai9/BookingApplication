@@ -1,4 +1,6 @@
-package org.example.assignment;
+package util;
+
+import databse.UserJDBC;
 
 public class MigrationRunner {
     public static void main(String[] args) {

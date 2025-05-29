@@ -1,4 +1,4 @@
-package org.example.assignment;
+package model;
 
 public class Event {
     private String title;

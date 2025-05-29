@@ -1,4 +1,4 @@
-package org.example.assignment;
+package util;
 
 public class PasswordUtils {
     public static String encrypt(String plain) {

@@ -1,5 +1,8 @@
-package org.example.assignment;
+package controller;
 
+import databse.EventJDBC;
+import databse.OrderJDBC;
+import databse.UserJDBC;
 import javafx.application.Application;
 import javafx.beans.property.ReadOnlyStringWrapper;
 import javafx.geometry.Insets;
@@ -10,10 +13,11 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.util.Callback;
+import model.CartItem;
+import model.Event;
+import model.Order;
+import util.PasswordUtils;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 

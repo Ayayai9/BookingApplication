@@ -1,4 +1,6 @@
-package org.example.assignment;
+package databse;
+
+import model.Event;
 
 import java.sql.*;
 import java.util.ArrayList;

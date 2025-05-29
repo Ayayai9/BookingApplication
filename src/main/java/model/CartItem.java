@@ -1,4 +1,4 @@
-package org.example.assignment;
+package model;
 
 public class CartItem {
     private Event event;
